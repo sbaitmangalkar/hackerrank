@@ -1,4 +1,4 @@
-package com.hackerrank.implemetation.sherlocksquare;
+package com.hackerrank.implementation.sherlockq;
 
 import java.util.Scanner;
 
