@@ -1,4 +1,4 @@
-package com.hackerrank.implemetation.caesar;
+package com.hackerrank.implementation.caesar;
 
 import java.util.Arrays;
 
